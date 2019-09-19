@@ -1,4 +1,15 @@
-# Clase 2
+![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-programacion-de-aplicaciones-con-JavaScript-y-Node.js_ed1.svg)
+![shieldsIO](https://img.shields.io/github/forks/Fictizia/Master-en-programacion-de-aplicaciones-con-JavaScript-y-Node.js_ed1.svg)
+![shieldsIO](https://img.shields.io/github/stars/Fictizia/Master-en-programacion-de-aplicaciones-con-JavaScript-y-Node.js_ed1.svg)
+
+![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+
+# Master en Programación de Aplicaciones con JavaScript y Node.js
+### JS, Node.js, Frontend, Express, Patrones, IoT, HTML5_APIs, Asincronía, Websockets, ECMA6, ECMA7
+
+
+
+## Clase 2
 
 ### C9.io
 
@@ -41,7 +52,7 @@
 **Trabajo efectivo**
 
 - [Clientes escritorio](https://mac.github.com)
-- [Consola (Cheat-sheet)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+- [Consola (Cheat-sheet)](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - Repositorio
 - Tracking
 - Commits
@@ -631,7 +642,7 @@ git pull
 
 3. Preparamos nuestro commit (añadimos archivos y añadimos la información adicional)
  ```
-git add "ARCHIVO" 
+git add "ARCHIVO"
 git commit -m "MENSAJE..."
  ```
 
